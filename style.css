@@ -1,0 +1,14 @@
+img
+{
+text-align: center; 
+height:250px;
+width:250px ;
+}
+
+body
+{
+ background-color: chocolate;
+ color:black ;
+ font-family:"roboto",sans-serif ;
+ font-size:25px ;
+}
